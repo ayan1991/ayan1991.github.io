@@ -1,30 +1,30 @@
 
 
-title: Hortensia
-name: Yuwei's Tech Blog
+title: Anhui ZHANG
+name: Yanhui ZHANG's Tech Blog
 description: 
- I'm Yuwei Wu, now a master student at University of Pennsylvania majoring in systems engineering, interest in robotics, systems and optimization.
+ I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University majoring in Aerospace Science and Technology engineering, interest in robotics, systems and optimization.
 baseurl: ""
-github_username:  yuwei-wu
+github_username:  anhui zhang
 
 baseurl: ""  # the subpath of your site, e.g. /blog
 
-author: Yuwei WU
-author_bio: I'm Yuwei Wu, now a master student at University of Pennsylvania majoring in systems engineering, interest in robotics, systems and optimization.
+author: Yanhui ZHANG
+author_bio:  I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University majoring in Aerospace Science and Technology engineering, interest in aircraft, robotics, systems and optimization.
 
 
 # social links
-github_username:  yuwei-wu
-linkedin_username: yuweiwu-36343214a
+github_username:  Yanhui ZHANG
+linkedin_username: Yanhui ZHANG
 
 
 # wakatime username (coding activity)
-wakatime_username: yuwei-wu
+wakatime_username: Yanhui ZHANG
 
 
-formspree_email: yuweiwu20001@outlook.com
+formspree_email: anhuizhang91@gmail.com
 
-footer-text: Copyright (c) 2020  Yuwei Wu 
+footer-text: Copyright (c) 2021  Yanhui ZHANG 
 # jekyll-paginate configuration
 paginate: 10
 
@@ -41,7 +41,7 @@ exclude:
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->
-author: http://www.linkedin.com/in/alainpham
+author: https://orcid.org/0000-0003-0306-9540
 
 host: 0.0.0.0
 
