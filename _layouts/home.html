@@ -1,0 +1,84 @@
+---
+layout: default
+title: Hello, world!
+---
+<head>
+
+
+    <style type="text/css">
+
+	.jumbotron {     
+	    background-image: url({{site.url}}/assets/images/flower.jpg);
+		background-size: cover;
+		text-align: center;
+		background-position:center;
+		margin-bottom:0;
+		background-repeat:no-repeat;
+			
+	}
+		
+	.welcome{
+
+		margin-top:10%;
+		margin-bottom:10%;
+	}
+		
+	body{
+		font-family: Helvetica Neue, Helvetica, Tahoma, Arial, serif, sans-serif;
+		font-weight: 100;
+
+	}
+
+    </style>
+
+</head>
+
+
+
+<body>
+
+    <div class="jumbotron jumbotron-fluid">
+	    <div class="welcome">
+			<h1 class="display-1">Welcome to My World!</h1>
+			<hr class="m-y-2">
+			<a class="btn btn-info btn-lg" href="/about/" style="">About Me</a>
+		</div>
+    </div>
+
+
+ <br/>
+
+
+
+
+ <br/> <br/>
+
+<div class = "container">
+    <div class="container row justify-content-md-center">
+        <div class="card"> 
+
+	     <div class="container">
+		<div class="col-md-4">  
+                <h2 class="display-4">Contact Me:</h2> 
+
+                </div>
+                <div class="col-md-6"> 
+		{%- include contact_me_form.html -%}
+		</div>
+	    </div>
+        </div>
+    </div>
+</div>
+
+
+
+ <br/> <br/> <br/> <br/> 
+
+
+
+
+ <br/> <br/> <br/> <br/> <br/> <br/>
+
+
+</body>
+

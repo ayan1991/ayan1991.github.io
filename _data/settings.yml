@@ -1,0 +1,31 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'ZHANG Yanhui'
+
+# ORC analytics
+ORC-ID: 'https://orcid.org/0000-0003-0306-9540'
+
+
+
+menu:
+  - name: About
+    link: /about
+  - name: Blogs
+    link: /blogs
+  - name: Tags
+    link: /tags
+  - name: Gallery
+    link: /gallery
+  - name: Featured Projects
+    submenu:
+      - name: Copter
+        link: /projects/QuadCopter
+      - name: SWARM
+        link: /projects/Swarm copter
+      - name: OCR1
+        link: /projects/OCR1
+      - name: OCR2
+        link: /projects/OCR2
+      - name: OCR
+        link: /projects/OCR
