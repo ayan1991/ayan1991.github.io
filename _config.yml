@@ -5,7 +5,7 @@ name: Yanhui ZHANG's Tech Blog
 description: 
  I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University majoring in Aerospace Science and Technology engineering, interest in robotics, systems and optimization.
 baseurl: ""
-github_username:  anhui zhang
+github_username:  ayan1991
 
 baseurl: ""  # the subpath of your site, e.g. /blog
 
@@ -14,7 +14,7 @@ author_bio:  I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University m
 
 
 # social links
-github_username:  Yanhui ZHANG
+github_username:  ayan1991
 linkedin_username: Yanhui ZHANG
 
 

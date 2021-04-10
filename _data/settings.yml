@@ -13,19 +13,19 @@ menu:
     link: /about
   - name: Blogs
     link: /blogs
-  - name: Tags
-    link: /tags
   - name: Gallery
-    link: /gallery
-  - name: Featured Projects
     submenu:
-      - name: Copter
+      - name: Autonmous systems
+        link: /projects/RLV
         link: /projects/QuadCopter
+        link: /projects/Coaxial twin-propeller UAV
+        link: /projects/AutoParking
+        link: /projects/Autonomous sailing vessel
       - name: SWARM
-        link: /projects/Swarm copter
-      - name: OCR1
-        link: /projects/OCR1
-      - name: OCR2
-        link: /projects/OCR2
-      - name: OCR
+        link: /projects/Swarm Copter
+        link: /projects/Swarm Birds
+        link: /projects/Swarm Aircraft
+      - name: AI-Image
         link: /projects/OCR
+        link: /projects/Object Detection
+        link: /projects/Obstacle avoidance
