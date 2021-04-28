@@ -159,6 +159,19 @@ body {
 	color: #ffffff;
 }
 
+/* add by yhzhang */
+.blueimp-gallery > .description {
+	position: absolute;
+	top: 30px;
+	left: 15px;
+	color: #fff;
+	display: none;
+  }
+  .blueimp-gallery-controls > .description {
+	display: block;
+  }
+/* add by yhzhang */
+
 @media ( max-width : 767px) {
 	.navbar-default .navbar-nav .open .dropdown-menu>li>a {
 		color: #ffffff;
