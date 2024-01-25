@@ -3,14 +3,14 @@
 title: Anhui ZHANG
 name: Yanhui ZHANG's Tech Blog
 description: 
- I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University majoring in Aerospace Science and Technology engineering, interest in robotics, systems and optimization.
+ I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University majoring in Aerospace Science and Technology engineering, interest in Robotics Learning Control, UAV Systems and Swarm Aircraft.
 baseurl: ""
 github_username:  ayan1991
 
 baseurl: ""  # the subpath of your site, e.g. /blog
 
 author: Yanhui ZHANG
-author_bio:  I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University majoring in Aerospace Science and Technology engineering, interest in aircraft, robotics, systems and optimization.
+author_bio:  I'm Yanhui ZHANG, now a Research Assistant at Zhejiang University majoring in Aerospace Science and Technology engineering, interest in Robotics Learning Control, UAV Systems and Swarm Aircraft.
 
 
 # social links
@@ -24,7 +24,7 @@ wakatime_username: Yanhui ZHANG
 
 formspree_email: anhuizhang91@gmail.com
 
-footer-text: Copyright (c) 2021  Yanhui ZHANG 
+footer-text: Copyright (c) 2024  Yanhui ZHANG 
 # jekyll-paginate configuration
 paginate: 10
 
